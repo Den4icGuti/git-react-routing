@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-react-routing/static/css/main.b26f3044.css",
+    "main.js": "/git-react-routing/static/js/main.0120e216.js",
+    "index.html": "/git-react-routing/index.html",
+    "main.b26f3044.css.map": "/git-react-routing/static/css/main.b26f3044.css.map",
+    "main.0120e216.js.map": "/git-react-routing/static/js/main.0120e216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b26f3044.css",
+    "static/js/main.0120e216.js"
+  ]
+}
