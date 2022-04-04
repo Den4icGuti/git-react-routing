@@ -1,9 +1,8 @@
 import { NavLink } from "react-router-dom";
-// import { useState } from 'react';
 import styles from '../Navigation/Navigation.module.css';
 const Navigation = () => {
 return <nav>
-  <NavLink to="/Home"
+  <NavLink to="/Home" exact
     className={styles.link}
     activeclassname={styles.activeLink}
   >
